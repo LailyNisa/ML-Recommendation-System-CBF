@@ -315,8 +315,9 @@ Sistem rekomendasi produk Amazon dengan metode _Item centred_ dan _User Centred_
 Content-based filtering suatu sistem reomendasi akan menyarankan item produk yang mirip dengan suatu produk yang disukai atau pun yang telah dibeli (strategi kontekstual). Misalnya, jika user A ingin melihat film horor, maka film horor lain akan ditampilkan untuknya. Teknik ini dapat item-centred ataupun user-centred[3].
 1. Item Centred Content-based filtering 
     _Item-centred content-based filtering_ dari sistem rekomendasi akan mereomendasikan item baru berdasarkan kesamaan item saja (feedbac implisit)[3].
+   
     ![image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Recommender-Systems-ML-Metrics-vs-Business-Metrics_29.png?resize=273%2C172&ssl=1)
-2. User Centred Content-based filtering
+3. User Centred Content-based filtering
    Pada kasus _user-centered content-based filtering_, informasi user dikumpulkan, misalnya melalui kuisioner. Dari situlah pengetahuan dibawa untuk merekomendasikan item dengan fitur yang serupa yang ia sukai[3].
     ![image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Recommender-Systems-ML-Metrics-vs-Business-Metrics_28.png?resize=319%2C219&ssl=1)
 
